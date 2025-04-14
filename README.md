@@ -1,2 +1,2 @@
 # ScanFormer
-##The code will be released soon.
+##The codes will be released soon.
